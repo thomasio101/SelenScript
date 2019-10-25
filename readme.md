@@ -10,9 +10,15 @@ Selina /səˈliːnə/ is a feminine given name, of Greek origin, derived from th
 ``` 
 it was recommended by DreadberryJam from a discord server i talk in.
 
+## Support
+| Lua version    | Official SelenScript support |
+|----------------|:----------------------------:|
+| 5.4            |      :white_check_mark:      |
+| Other versions |              :x:             |
+
+Please note that SelenScript might work with unsupported versions of Lua, and we *might* provide official support for these versions in the future.
+
 ## Syntax
-The syntax of SelenScript is directly a extension of Lua 5.4  
-This dose not mean you can't use it for other Lua versions (proper support maybe added later)  
 **BEWARE**  
 Please note that SelenScript is under heavy development, thus the syntax may change. 
 
