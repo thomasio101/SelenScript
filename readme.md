@@ -1,4 +1,6 @@
 # SelenScript
+> "Selēnē" (Greek for "moon", translated to Portugese: "lua")
+
 SelenScript is a modern superset of the Lua language. It provides several features to allow programmers to be more productive and design less error-prone code.
 
 ## Name
