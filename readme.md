@@ -3,6 +3,7 @@
 
 SelenScript is a modern superset of the Lua language. It provides several features to allow programmers to be more productive and design less error-prone code.
 
+TODO: Reference DreadberryJam as the author of the name and remove the following paragraph.
 ## Name
 Selen is based from  
 ```
