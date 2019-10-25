@@ -1,8 +1,5 @@
 # SelenScript
-This is a transpiler that outputs Lua code  
-Any normal Lua code should in theory transpile without issues (if not please report it)  
-The goal of SelenScript is to make Lua neater and easier to code  
-and make complex things simple  
+SelenScript is a modern superset of the Lua language. It provides several features to allow programmers to be more productive and design less error-prone code.
 TODO: improve readme
 
 ## Name
