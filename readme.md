@@ -39,9 +39,11 @@ end
 g: table[string=number]
 h: array[string]
 ```
+### `continue` control flow statement
+The `continue` statement skips to the end of a loop iteration.
 
-`continue` works like any other language  
-NOTE: versions prior to (LuaJIT/Lua5.2+) may not support this as it use's goto  
+**NOTE**  
+Versions of the Lua language prior to Lua 5.2 may not support this feature as it utilises the `goto` statement.  
 ```Lua
 for i, v in pairs(t) do
 	if type(v) ~= "string" then
