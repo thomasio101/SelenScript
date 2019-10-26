@@ -17,7 +17,7 @@ it was recommended by DreadberryJam from a discord server i talk in.
 | 5.4            |      :white_check_mark:      |
 | Other versions |              :x:             |
 
-Please note that SelenScript might work with unsupported versions of Lua, and we *might* provide official support for these versions in the future.
+Please note that SelenScript might work with unsupported versions of Lua, and we *might* provide official support for those versions in the future.
 
 ## Syntax
 **BEWARE**  
