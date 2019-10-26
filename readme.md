@@ -135,7 +135,7 @@ Person = {
 	end
 }
 ```
-
+### Decorators
 Decorators (similar to Python)  
 ```Lua
 -- `f` is always supplied
