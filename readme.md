@@ -88,9 +88,11 @@ bar = __sls1
 break if baz == "baz"
 continue if baz == "baz"
 ```
+### Return values from control flow blocks
+expression statements
 
-expression statements  
-NOTE: versions prior to (LuaJIT/Lua5.2+) may not support this as it use's goto  
+**NOTE**  
+Versions of the Lua language prior to Lua 5.2 may not support this feature as it utilises the `goto` statement.  
 ```Lua
 foo = while true do
 	break "foo's value"
