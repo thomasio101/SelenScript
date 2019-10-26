@@ -214,7 +214,7 @@ would return from the function and not the `do` statement as its not used as an 
 # Contributors
 Matrixmage - Helped with some code stuff  
 Matrixmage, Pyry, Yolathothep - Language design  
-DreadberryJam - Name Suggestion
+DreadberryJam - Name Suggestion  
 thomasio101 - Documentation rewrite
 
 Where ever I borrowed code for tests  
