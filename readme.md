@@ -83,8 +83,7 @@ else
 end
 bar = __sls1
 ```
-
-Statement conditionals  
+### Statement conditionals  
 ```Lua
 break if baz == "baz"
 continue if baz == "baz"
