@@ -60,8 +60,8 @@ for i, v in pairs(t) do
 	::continue::
 end
 ```
-
-Inline `if`  
+### Inline `if`
+SelenScript supports using `if / else` control flow statements inside inline expressions.
 ```Lua
 foo = 100
 bar = foo if foo >= 100 else foo+100  -- Bar: 100
