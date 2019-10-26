@@ -21,9 +21,8 @@ Please note that SelenScript might work with unsupported versions of Lua, and we
 
 ## Syntax
 **BEWARE**  
-Please note that SelenScript is under heavy development, thus the syntax may change. 
-
-Typing info 
+Please note that SelenScript is under heavy development, thus the syntax may change.
+### Typing
 ```Lua
 local a: number
 local b: int|float  -- same as number
