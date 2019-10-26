@@ -164,8 +164,8 @@ foo = default(foo, 3)
 
 print(foo()) -- Result: 3
 ```
-
-String formatting (like in python)  
+### Literal string interpolation
+SelenScript provides Python-esque literal string interpolation, which allows programmers to embed expressions in strings.
 ```Lua
 local test = 123
 print(f"{test} {{}}") -- Result: "123 {}"
