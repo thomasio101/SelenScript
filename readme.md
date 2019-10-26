@@ -170,8 +170,6 @@ SelenScript provides Python-esque literal string interpolation, which allows pro
 local test = 123
 print(f"{test} {{}}") -- Result: "123 {}"
 ```
-
-
 ## Settings/Options
 `default_local`, in Lua variables are by default global, this make all variables default to local instead  
 and to define a global you can just use `global` like you'd use `local`  
