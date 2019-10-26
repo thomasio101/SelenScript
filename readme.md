@@ -107,8 +107,7 @@ baz = for i,v in pairs(t) do
 	-- basically if nothing 'returned' a value then Lua's default is used `nil`
 end
 ```
-
-Interface's  
+### Interfaces
 ```Lua
 interface FooBar
 	-- basically just a bunch of type definition's
